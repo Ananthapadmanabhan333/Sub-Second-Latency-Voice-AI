@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+websockets
+openai
+python-dotenv
+pydantic
+langgraph
+qdrant-client
+elevenlabs
+requests
+aiohttp
+python-multipart
+pydub
+numpy
+scipy

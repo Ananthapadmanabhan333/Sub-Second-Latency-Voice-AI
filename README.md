@@ -110,4 +110,4 @@ npm run dev
 This project is licensed under the MIT License.
 
 ---
-*Built with ❤️ by the Aether Engineering Team.*
+*Built by Ananthapadmanabhan*
